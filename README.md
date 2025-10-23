@@ -8,8 +8,10 @@ O objetivo foi transformar o modelo operacional original em uma estrutura voltad
 ## 🎯 Objetivo do Projeto
 
 O foco do modelo é o **professor** como entidade central de análise.
+
 A partir das tabelas do modelo transacional, foi desenvolvida uma **tabela fato** que consolida os principais indicadores e dimensões relacionadas, proporcionando uma base para análises de desempenho e alocação docente.
 
+Partimos do pressuposto de que: Um **professor**  leciona uma **disciplina** de um determinado **curso** de um **departamento** em uma determinada **data**.
 
 ## 🧩 Estrutura do Modelo
 
